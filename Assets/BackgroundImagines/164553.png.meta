@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: caf7df1b0fd8a2544a200b7b32aef403
+guid: 24deaeb4c2b5eba4b970a21bcc2b15dc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5587239495608844589
-    second: Spike10_dgw_0
+      213: -4799899402048447564
+    second: 164553_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -83,7 +83,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Standalone
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -95,7 +95,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spike10_dgw_0
+      name: 164553_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 13
-        width: 267
-        height: 921
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d214cc208bcd98d40800000000000000
-      internalID: 5587239495608844589
+      spriteID: 4bbda4fbce4536db0800000000000000
+      internalID: -4799899402048447564
       vertices: []
       indices: 
       edges: []
@@ -141,7 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Spike10_dgw_0: 5587239495608844589
+      164553_0: -4799899402048447564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
